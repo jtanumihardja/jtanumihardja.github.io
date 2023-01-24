@@ -25,7 +25,7 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Visualization from PowerBI**
 
-![](/images/FoodDatabase_1.png) 
+![](/images/FoodDatabase_2.png) 
 
 
 ## Project 3: Boston Craigslist Housing Analysis in R (ongoing)
