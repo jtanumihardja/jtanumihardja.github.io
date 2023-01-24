@@ -1,6 +1,6 @@
-# Jessica_Portfolio
+# Jessica Tanumihardja's Portfolio
 
-**Portfolio for all of the data analytics projects**
+**Portfolio for all of my data analytics projects**
 
 ## [Project 1: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300)
 
