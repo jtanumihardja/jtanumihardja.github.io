@@ -18,17 +18,19 @@ This is a group project consisting 5 people to create a food delivery database u
 
 The database containes 4 schemas and 15 entities. The Entity Relationship Diagram (ERD) for the database is shown below. Triggers were used to update the user, order, and payment automatically. Column data encryption was used on password to increase security. Computed column procedure was used to calculate payment according to membership level discount automatically. The custom database was tested using 20 restaurants from 4 different US states with at least 3 menu items from each restaurants. SQL Views query were set up for common analytics such as average restaurants rating, top 3 restaurants, and restaurant menus. Vizualizations with PowerBI for those views were also set as shown below. 
 
-**ERD**
+**Food Database ERD**
+
 ![](/images/FoodDatabase_ERD.png)
 
 
-**Visualization sample**
+**Visualization from PowerBI**
+
 ![](/images/FoodDatabase_1.png) 
 
 
 ## Project 3: Boston Craigslist Housing Analysis in R (ongoing)
 
-This individual semester-long project for PPUA 5262 Big Data for Cities class in R. The project objective is to process, analyze and visualize Craigslist's Housing data in Massachusets. The main focus will be in Boston area, turning the big data into products that might benefit communities. Some of the analysis involves housing access, conditions, and equity across Boston’s neighborhoods.
+This individual semester-long project for PPUA 5262 Big Data for Cities class in R. The project objective is to process, analyze, visualize, and model Craigslist's Housing data in Massachusets. The main focus will be in Boston area, turning the big data into products that might benefit communities. Some of the analysis involves housing access, conditions, and equity across Boston’s neighborhoods.
 
 
 ## Project 4: Visualization and Data Analytics in R (ongoing)
