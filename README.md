@@ -1,6 +1,6 @@
 # Jessica_Portfolio
 
-**Portfolio for all my data analytics projects**
+**Portfolio for all of the data analytics projects**
 
 ## [Project 1: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300)
 
@@ -14,8 +14,10 @@ The database containes 4 schemas and 15 entities. Triggers were used to update t
 
 [insert image] 
 
-## Project 3: Boston Craigslist Housing Analysis in R
+## Project 3: Boston Craigslist Housing Analysis in R (ongoing)
 
+This individual semester-long project for PPUA 5262 Big Data for Cities class in R. The project objective is to process, analyze and visualize Craigslist's Housing data in Massachusets. The main focus will be in Boston area, turning the big data into products that might benefit communities. Some of the analysis involves housing access, conditions, and equity across Boston’s neighborhoods.
 
+## Project 4: Visualization and Data Analytics in R (ongoing)
 
-
+This is a group project consisting 4 people for IE6600 Computation and Visualization in R. 
