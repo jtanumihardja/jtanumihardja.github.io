@@ -1,6 +1,7 @@
-# Jessica Tanumihardja's Portfolio
+# Data Analytics Portfolio
 
-**Portfolio for all of my data analytics projects**
+**Jessica Tanumihardja**
+
 
 ## [Project 1: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300)
 
@@ -10,6 +11,7 @@ The summary of the performance metrics for each model tested is listed below.
 
 ![](/images/AirQualityRegressionResultSummary.png)
 
+
 ## Project 2: Food Delivery Application Database in SQL  
 
 This is a group project consisting 5 people to create a food delivery database using SQL. The purpose of this database is to maintain the data used to support online food ordering and delivery services. The database can be used by the restaurant manager (obtain and track order), delivery person (obtain delivery information), and customer (order and provide ratings). This database serves as a platform to perform contactless business, track orders and perform order analytics. 
@@ -18,9 +20,11 @@ The database containes 4 schemas and 15 entities. Triggers were used to update t
 
 ![](/images/FoodDatabase_1.png) 
 
+
 ## Project 3: Boston Craigslist Housing Analysis in R (ongoing)
 
 This individual semester-long project for PPUA 5262 Big Data for Cities class in R. The project objective is to process, analyze and visualize Craigslist's Housing data in Massachusets. The main focus will be in Boston area, turning the big data into products that might benefit communities. Some of the analysis involves housing access, conditions, and equity across Boston’s neighborhoods.
+
 
 ## Project 4: Visualization and Data Analytics in R (ongoing)
 
