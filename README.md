@@ -16,8 +16,13 @@ The summary of the performance metrics for each model tested is listed below.
 
 This is a group project consisting 5 people to create a food delivery database using SQL. The purpose of this database is to maintain the data used to support online food ordering and delivery services. The database can be used by the restaurant manager (obtain and track order), delivery person (obtain delivery information), and customer (order and provide ratings). This database serves as a platform to perform contactless business, track orders and perform order analytics. 
 
-The database containes 4 schemas and 15 entities. Triggers were used to update the user, order, and payment automatically. Column data encryption was used on password to increase security. Computed column procedure was used to calculate payment according to membership level discount automatically. The custom database was tested using 20 restaurants from 4 different US states with at least 3 menu items from each restaurants. SQL Views query were set up for common analytics such as average restaurants rating, top 3 restaurants, and restaurant menus. Vizualizations with PowerBI for those views were also set as shown below. 
+The database containes 4 schemas and 15 entities. The Entity Relationship Diagram (ERD) for the database is shown below. Triggers were used to update the user, order, and payment automatically. Column data encryption was used on password to increase security. Computed column procedure was used to calculate payment according to membership level discount automatically. The custom database was tested using 20 restaurants from 4 different US states with at least 3 menu items from each restaurants. SQL Views query were set up for common analytics such as average restaurants rating, top 3 restaurants, and restaurant menus. Vizualizations with PowerBI for those views were also set as shown below. 
 
+**ERD**
+![](/images/FoodDatabase_ERD.png)
+
+
+**Visualization sample**
 ![](/images/FoodDatabase_1.png) 
 
 
