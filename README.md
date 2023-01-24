@@ -8,7 +8,7 @@ This project is an individual semester-long project for IE 7300 Statistical Lear
 
 The summary of the performance metrics for each model tested is listed below.
 
-![](https://github.com/jtanumihardja/jtanumihardja.github.io/blob/main/images/AirQualityRegressionResultSummary.png)
+![](/images/AirQualityRegressionResultSummary.png)
 
 ## Project 2: Food Delivery Application Database in SQL  
 
@@ -16,7 +16,7 @@ This is a group project consisting 5 people to create a food delivery database u
 
 The database containes 4 schemas and 15 entities. Triggers were used to update the user, order, and payment automatically. Column data encryption was used on password to increase security. Computed column procedure was used to calculate payment according to membership level discount automatically. The custom database was tested using 20 restaurants from 4 different US states with at least 3 menu items from each restaurants. SQL Views query were set up for common analytics such as average restaurants rating, top 3 restaurants, and restaurant menus. Vizualizations with PowerBI for those views were also set as shown below. 
 
-![](https://github.com/jtanumihardja/jtanumihardja.github.io/blob/main/images/FoodDatabase_1.png) 
+![](/images/FoodDatabase_1.png) 
 
 ## Project 3: Boston Craigslist Housing Analysis in R (ongoing)
 
