@@ -35,4 +35,21 @@ This individual semester-long project for PPUA 5262 Big Data for Cities class in
 
 ## Project 4: Visualization and Data Analytics in R (ongoing)
 
-This is a group project consisting 4 people for IE6600 Computation and Visualization in R. 
+This is a group project consisting 4 people for IE6600 Computation and Visualization in R. All the data preprocessing and visualization are conducted in RStudio and the web application is pushed from RShiny. 
+
+
+## [Project 5 (Hackathon 2023): Banana Map](https://github.com/jwke21/team_banana_hackathon) 
+
+**Carbon Emission and Energy calculator by transportation routes**
+
+The Banana Map is a web application created for Northeastern University 2023 Hackathon within 24 hours. The theme for the Hackathon is "Tools of the Future" and our focus is climate change and environmental sustainability. The objective of this product is to provide incentives and day-to-day comparison for the user on their transportation choice. Transportation is the greatest contributor (~27%) of greenhouse gases emission in the United States. Hence, the first step of heading towards more sustainable life is to wisely choose our transportation option. For this project, we are comparing 4 transportation modes: driving, busing, walking, and cycling. 
+
+For the back-end, we processed the CO2 emission dataset to get the average car mpg (miles per gallon) and CO2 emission (metric tons/mile) in Python. We also gathered resources for energy and calorie calculations. We are converting those energy to equivalent banana needed so that user can have a tangible comparison (it is also a great source of fuel for our body!). We also showed how much area needed for a forest to sequestered the emitted CO2 (metric tons/area/day). That way, the user will get both biological and environmental comparison. 
+
+The front-end was built using JavaScript. We were using Mapbox API (open source) to show the map and get the distance between two addresses. The features includes trip distance calculator, CO2 emission tracking, kcal energy expenditure tracking, and equivalent banana calorie tracking. The web interface is shown below. 
+
+Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
+
+**Screenshot of web interface**
+
+![](/images/WebInterface_DriveAndWalk.png)
