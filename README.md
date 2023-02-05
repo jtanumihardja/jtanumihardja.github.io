@@ -41,7 +41,7 @@ This is a group project consisting 4 people for IE6600 Computation and Visualiza
 
 
 
-## [Project 5 (Hackathon 2023): Banana Map](https://github.com/jwke21/team_banana_hackathon) 
+## [Project 5 (Winner of Northeastern University Hackathon 2023): Banana Map](https://github.com/jwke21/team_banana_hackathon) 
 
 **Carbon Emission and Energy calculator by various transportation routes**
 
