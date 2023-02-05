@@ -28,9 +28,11 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 ![](/images/FoodDatabase_2.png) 
 
 
+
 ## Project 3: Boston Craigslist Housing Analysis in R (ongoing)
 
 This individual semester-long project for PPUA 5262 Big Data for Cities class in R. The project objective is to process, analyze, visualize, and model Craigslist's Housing data in Massachusets. The main focus will be in Boston area, turning the big data into products that might benefit communities. Some of the analysis involves housing access, conditions, and equity across Boston’s neighborhoods.
+
 
 
 ## Project 4: Visualization and Data Analytics in R (ongoing)
@@ -38,9 +40,10 @@ This individual semester-long project for PPUA 5262 Big Data for Cities class in
 This is a group project consisting 4 people for IE6600 Computation and Visualization in R. All the data preprocessing and visualization are conducted in RStudio and the web application is pushed from RShiny. 
 
 
+
 ## [Project 5 (Hackathon 2023): Banana Map](https://github.com/jwke21/team_banana_hackathon) 
 
-**Carbon Emission and Energy calculator by transportation routes**
+**Carbon Emission and Energy calculator by various transportation routes**
 
 The Banana Map is a web application created for Northeastern University 2023 Hackathon within 24 hours. The theme for the Hackathon is "Tools of the Future" and our focus is climate change and environmental sustainability. The objective of this product is to provide incentives and day-to-day comparison for the user on their transportation choice. Transportation is the greatest contributor (~27%) of greenhouse gases emission in the United States. Hence, the first step of heading towards more sustainable life is to wisely choose our transportation option. For this project, we are comparing 4 transportation modes: driving, busing, walking, and cycling. 
 
