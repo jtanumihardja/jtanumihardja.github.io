@@ -35,7 +35,8 @@ This is an individual semester-long project for PPUA 5262 Big Data for Cities cl
 
 
 
-## Project 4: Visualization and Data Analytics in R (ongoing)
+
+## [Project 4: Visualization and Data Analytics in R (ongoing)](https://github.com/jtanumihardja/IE6600_final_project)
 
 This is a group project consisting 4 people for IE6600 Computation and Visualization in R. All the data preprocessing and visualization are conducted in RStudio and the web application is pushed from RShiny. 
 
