@@ -17,11 +17,11 @@ Future development of this project includes cross-platform application, user rew
 
 **Screenshot of web interface**
 
-![](/images/WebInterface_DriveAndWalk.png)
+<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/WebInterface_DriveAndWalk.png" width="600" height="400">
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
-<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/WebInterface_DriveAndWalk.png" width="600" height="300">
+
 
 
 
@@ -31,7 +31,9 @@ This project is an individual semester-long project for IE 7300 Statistical Lear
 
 The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
-![](/images/AirQualityRegressionResultSummary.png){ width=20% }
+![](/images/AirQualityRegressionResultSummary.png)
+
+<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/AirQualityRegressionResultSummary.png" width="600" height="400">
 
 
 ## Project 2: Food Delivery Application Database in SQL  
@@ -42,13 +44,15 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-![](/images/FoodDatabase_ERD.png){width=20%}
+![](/images/FoodDatabase_ERD.png)
 
+<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/FoodDatabase_ERD.png" width="600" height="400">
 
 **Visualization from PowerBI**
 
-![](/images/FoodDatabase_2.png){ width=20% } 
+![](/images/FoodDatabase_2.png)
 
+<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/FoodDatabase_2.png" width="600" height="400">
 
 
 ## [Project 3: Boston Craigslist Housing Analysis in R (ongoing)](https://github.com/jtanumihardja/BigDataForCities_PPUA5262)
