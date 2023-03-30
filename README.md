@@ -16,7 +16,7 @@ Future development of this project includes cross-platform application, user rew
 
 **Screenshot of web interface**
 
-![](/images/WebInterface_DriveAndWalk.png)
+![](/images/WebInterface_DriveAndWalk.png){ width=50% }
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
@@ -28,7 +28,7 @@ This project is an individual semester-long project for IE 7300 Statistical Lear
 
 The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
-![](/images/AirQualityRegressionResultSummary.png)
+![](/images/AirQualityRegressionResultSummary.png){ width=50% }
 
 
 ## Project 2: Food Delivery Application Database in SQL  
@@ -39,12 +39,12 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-![](/images/FoodDatabase_ERD.png)
+![](/images/FoodDatabase_ERD.png){ width=50% }
 
 
 **Visualization from PowerBI**
 
-![](/images/FoodDatabase_2.png) 
+![](/images/FoodDatabase_2.png){ width=50% } 
 
 
 
