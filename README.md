@@ -31,7 +31,7 @@ This project is an individual semester-long project for IE 7300 Statistical Lear
 
 The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
-<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/AirQualityRegressionResultSummary.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="600" height="250">
 
 
 ## Project 2: Food Delivery Application Database in SQL  
@@ -42,11 +42,11 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/FoodDatabase_ERD.png" width="600" height="350">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="350">
 
 **Visualization from PowerBI**
 
-<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/FoodDatabase_2.png" width="600" height="350">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_2.png" width="600" height="350">
 
 
 ## [Project 3: Boston Craigslist Housing Analysis in R (ongoing)](https://github.com/jtanumihardja/BigDataForCities_PPUA5262)
