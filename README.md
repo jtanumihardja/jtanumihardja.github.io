@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-**Jessica Tanumihardja**
+**LinkedIn:** [Jessica Tanumihardja]()
 
 ## [Project: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
 
@@ -14,11 +14,18 @@ The front-end was built using JavaScript. We were using Mapbox API (open source)
 
 Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
 
+
 **Screenshot of web interface**
 
-![](/images/WebInterface_DriveAndWalk.png){:height="50%" width="50%"}
+![](/images/WebInterface_DriveAndWalk.png)
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
+
+<img src="[https://your-image-url.type](https://github.com/jtanumihardja/jtanumihardja.github.io/blob/afd4d408b7da97e804818860c908d026472af639/images/WebInterface_DriveAndWalk.png)" width="400" height="200">
+
+
+
+
 
 
 
