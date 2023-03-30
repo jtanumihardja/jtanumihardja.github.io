@@ -17,7 +17,7 @@ Future development of this project includes cross-platform application, user rew
 
 **Screenshot of web interface**
 
-<img src="https://github.com/jtanumihardja/jtanumihardja.github.io/blob/main/images/WebInterface_DriveAndWalk.png" width="600" height="350">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="600" height="350">
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
