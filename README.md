@@ -53,6 +53,8 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 This is an individual semester-long project for PPUA 5262 Big Data for Cities class using R Studio. The project objective is to process, analyze, visualize, and model Craigslist's Housing data in Massachusets and other supporting administrative datasets. The main focus will be in Boston area, turning the big data into products that might benefit communities. Some of the analysis involves housing access, conditions, and equity across Boston’s neighborhoods.
 
+The wordpress articles created from the weekly data exploration can be found [here](https://sppua5262.wordpress.com/author/jtanumihardja/).
+
 
 
 
