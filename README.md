@@ -43,11 +43,11 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="500">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="400">
 
 **Visualization from PowerBI**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_2.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_2.png" width="600" height="350">
 
 * * *
 
