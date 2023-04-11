@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Class and Hackathon Projects
 
 **LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
@@ -22,7 +22,7 @@ Future development of this project includes cross-platform application, user rew
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
 
-
+* * *
 
 
 ## [Project 1: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300)
@@ -33,6 +33,7 @@ The summary of the performance metrics for each model tested is listed below. Th
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="600" height="250">
 
+* * *
 
 ## Project 2: Food Delivery Application Database in SQL  
 
@@ -42,12 +43,13 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="350">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="400">
 
 **Visualization from PowerBI**
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_2.png" width="600" height="350">
 
+* * *
 
 ## [Project 3: Boston Craigslist Housing Analysis in R (ongoing)](https://github.com/jtanumihardja/BigDataForCities_PPUA5262)
 
@@ -56,7 +58,7 @@ This is an individual semester-long project for PPUA 5262 Big Data for Cities cl
 The wordpress articles created from the weekly data exploration can be found [here](https://sppua5262.wordpress.com/author/jtanumihardja/).
 
 
-
+* * *
 
 ## [Project 4: Visualization and Data Analytics in R (ongoing)](https://github.com/jtanumihardja/IE6600_final_project)
 
@@ -64,7 +66,18 @@ This is a group project consisting 4 people for IE6600 Computation and Visualiza
 
 This project proposes a comprehensive analysis of world household drinking water, sanitation, and hygiene. The findings will inform evidence-based recommendations for promoting access to safe drinking water, sanitation, and hygiene, with the aim of achieving sustainable development goals.
 
-Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and mergging, visualization, modeling, and pushing the finished work in R Shiny Web Application. The visualisation includes choropleth world map, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Additional R features includes linear regresion model and time-series forecasting. 
+Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and mergging, visualization, modeling, and pushing the finished work in R Shiny Web Application. The visualisation includes choropleth world maps, lollipop plots, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Time series forecasting to predict 2030 "At Least Basic" variable value is also provided. 
+
+[**Shinyapps link**]()
+
+**Screenshot of R Shiny web application**
+
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WASH_summary1.png" width="600" height="350">
+
+
+Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
+
+* * *
 
 
 
