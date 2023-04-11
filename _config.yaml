@@ -1,6 +1,18 @@
 version: 2.1
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: [Data Analytics Portfolio | Jessica Tanumihardja]
+description: [Portfolio for all of my data analytics projects]
+
+#theme: jekyll-theme-minimal
+
+#minima:
+#  social_links:
+#    - { platform: github,  user_url: "https://github.com/jtanumihardja" }
+#    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jessica-tanumihardja/" }
 
 # Define the jobs we want to run for this project
 jobs:
