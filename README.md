@@ -66,7 +66,14 @@ This is a group project consisting 4 people for IE6600 Computation and Visualiza
 
 This project proposes a comprehensive analysis of world household drinking water, sanitation, and hygiene. The findings will inform evidence-based recommendations for promoting access to safe drinking water, sanitation, and hygiene, with the aim of achieving sustainable development goals.
 
-Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and mergging, visualization, modeling, and pushing the finished work in R Shiny Web Application. The visualisation includes choropleth world map, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Additional R features includes linear regresion model and time-series forecasting. 
+Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and mergging, visualization, modeling, and pushing the finished work in R Shiny Web Application. The visualisation includes choropleth world maps, lollipop plots, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Time series forecasting to predict 2030 "At Least Basic" variable value is also provided. 
+
+[**Shinyapps link**]()
+
+**Screenshot of R Shiny web application**
+
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/ASH_summary1.png" width="600" height="350">
+
 
 Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
 
