@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Class and Hackathon Projects
 
 **LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
@@ -43,7 +43,7 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="500">
 
 **Visualization from PowerBI**
 
