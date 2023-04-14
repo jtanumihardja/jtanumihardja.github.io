@@ -12,13 +12,13 @@
 
 * * *
 
-## [Hackathon: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) <a name="hackathon"></a>
+## [Banana Map: Winner of Northeastern University Hackathon 2023](https://github.com/jwke21/team_banana_hackathon) <a name="hackathon"></a>
 
 **Carbon Emission and Energy calculator by various transportation routes**
 
-The Banana Map is a web application that was created for the Northeastern University 2023 Hackathon within 24 hours. The theme for the Hackathon was "Tools of the Future" and our focus wass climate change and environmental sustainability. The objective of our product is to provide incentives and day-to-day comparison for the user on their transportation choice. Transportation is the greatest contributor (~27%) of greenhouse gases emission in the United States. Hence, the first step of heading towards more sustainable life is to wisely choose our transportation option. For this project, we are comparing 4 transportation modes: driving, busing, walking, and cycling. 
+The Banana Map is a web application that was created for the Northeastern University 2023 Hackathon within 24 hours. The theme for the Hackathon was "Tools of the Future" and our focus was climate change and environmental sustainability. The objective of our product is to provide incentives and day-to-day comparison for the user on their transportation choice. Transportation is the greatest contributor (~27%) of greenhouse gases emission in the United States. Hence, the first step of heading towards more sustainable life is to wisely choose our transportation option. For this project, we are comparing 4 transportation modes: driving, busing, walking, and cycling. 
 
-For the back-end, we processed the CO2 emission dataset to get the average car mpg (miles per gallon) and CO2 emission (metric tons/mile) in Python. We also gathered resources for energy and calorie calculations. We converted those energy to equivalent number of banana needed so that users can have a tangible comparison (it is also a great source of fuel for our body!). We also showed how much area needed for a forest to sequestered the emitted CO2 (metric tons/area/day). That way, the user will get both biological and environmental comparisons. 
+For the back-end, we pre-processed the CO2 emission dataset to get the average car mpg (miles per gallon) and CO2 emission (metric tons/mile) in Python. We also gathered resources for energy and calorie calculations. We converted those energy to equivalent number of banana needed so that users can have a tangible comparison (it is also a great source of fuel for our body!). We also showed how much area needed for a forest to sequestered the emitted CO2 (metric tons/area/day). That way, the user will get both biological and environmental comparisons. 
 
 The front-end was built using JavaScript. Mapbox API (open source) were utilized to show the map and get the distance between two addresses. The features includes trip distance calculator, CO2 emission tracking, kcal energy expenditure tracking, and equivalent banana calorie tracking. The web interface is shown below. 
 
@@ -35,9 +35,9 @@ Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zh
 * * *
 
 
-## [Machine Learning: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300) <a name="ML"></a>
+## [Machine Learning: Air Quality Regression Analysis with Python](https://github.com/jtanumihardja/ML-IE7300) <a name="ML"></a>
 
-This project is an individual semester-long project for IE 7300 Statistical Learning for Engineering class. The project objective is to design, implement, evaluate, and validate machine learning models using Python programming. The dataset is [The Beijing Air Quality Data](https://archive-beta.ics.uci.edu/ml/datasets/beijing+multi+site+air+quality+data) from the UCI Machine Learning Repository. The business problem to be addressed is training the custom regression models and predicting the target variable values (PM2.5). The objective of this project is to perform statistical analysis on this dataset to find a regression equation to predict the fit and and conclude which regression equation is the best fit for each parameter.
+This project is an individual semester-long project for IE 7300 Statistical Learning for Engineering class. The project objective is to design, implement, evaluate, and validate machine learning models using Python programming custom functions (from scratch). The dataset is [The Beijing Air Quality Data](https://archive-beta.ics.uci.edu/ml/datasets/beijing+multi+site+air+quality+data) from the UCI Machine Learning Repository. The business problem to be addressed is training the custom regression models and predicting the target variable values (PM2.5). The objective of this project is to perform statistical analysis on this dataset to find a regression equation to predict the fit and and conclude which regression equation is the best fit for each parameter.
 
 The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
@@ -61,7 +61,7 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 * * *
 
-## [Web Application: Data Analytics and Visualization in R and RShiny](https://github.com/jtanumihardja/IE6600_final_project) <a name="RShiny"></a>
+## [Web App: Data Analytics and Visualization in R & RShiny](https://github.com/jtanumihardja/IE6600_final_project) <a name="RShiny"></a>
 
 This project proposes a comprehensive analysis of world household drinking water, sanitation, and hygiene. The findings will inform evidence-based recommendations and prioritization for worldwide household safe drinking water, sanitation, and hygiene services, with the aim of achieving sustainable development goals.
 
@@ -69,7 +69,7 @@ This is a group project consisting 4 people for IE6600 Computation and Visualiza
 
 Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and mergging, visualization, forecasting, and deploying the finished work in R Shiny Web Application. The visualisation includes choropleth world maps, lollipop plots, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Time series forecasting to predict 2030 "At Least Basic" variable value is also provided. 
 
-[**Shinyapps link**](https://teamshabushabu.shinyapps.io/shinyapp/)
+[**Click here to go to the Shinyapps**](https://teamshabushabu.shinyapps.io/shinyapp/)
 
 **Screenshot of R Shiny web application**
 
@@ -81,7 +81,7 @@ Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
 * * *
 
 
-## [Urban Informatics: Boston Craigslist Housing Analysis in R (ongoing)](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) <a name="Craigslist"></a>
+## [Urban Informatics: Boston Craigslist Housing Analysis in R](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) <a name="Craigslist"></a>
 
 This is an individual semester-long project for PPUA 5262 Big Data for Cities class using R Studio. The project objective is to process, analyze, visualize, and model Craigslist's Housing data in Massachusets and other supporting administrative datasets (census tracts, point of interest, etc.). The geographical area of focus is the City of Boston, turning the big data into products that might benefit communities. The analysis involves property pricing trends against nearby amenities, ease of commute, demographic variables (age, median income, etc.) to see the trend of equity across Boston’s neighborhoods.
 
