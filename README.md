@@ -1,4 +1,4 @@
-## Academic and Hackathon Projects
+# Portfolio
 
 **LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
