@@ -59,6 +59,8 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_2.png" width="600" height="300">
 
+Team members: Chang Xu, Gauri Damle, Jessica Tanumihardja, Shruthi Ananthapadmanabha, Zhening Feng
+
 * * *
 
 ## [Web App: Data Analytics and Visualization in R & RShiny](https://github.com/jtanumihardja/IE6600_final_project) <a name="RShiny"></a>
