@@ -1,8 +1,8 @@
-# Portfolio
+
 
 **LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
-**Content:**
+**Project list:**
 
 * [Hackathon Winner: Banana Map](#hackathon)
 * [Python: Machine Learning Regression](#ML)

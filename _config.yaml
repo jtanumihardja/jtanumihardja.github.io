@@ -5,8 +5,21 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Portfolio]
-description: [Jessica Tanumihardja's data analytics projects]
+title: [Jessica Tanumihardja's Portfolio]
+#description: [Jessica Tanumihardja's data analytics projects]
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/jessica-tanumihardja/">LinkedIn</a> |
+  <a href="https://github.com/jtanumihardja">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am an M.S. Data Analytics in Engineering student at Northeastern University, Seattle.
+  <br><br>
+  Checkout my projects on Python, R, and SQL below!
+  <br><br>
+  </p>
+
 
 #Minimal theme (Blue and white)
 #remote_theme: pages-themes/minimal@v0.2.0
