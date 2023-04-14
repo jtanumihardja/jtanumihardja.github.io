@@ -14,7 +14,7 @@
 
 ## [Banana Map: Winner of Northeastern University Hackathon 2023](https://github.com/jwke21/team_banana_hackathon) <a name="hackathon"></a>
 
-**Carbon Emission and Energy calculator by various transportation routes**
+**Carbon Emission and Energy calculator of various transportation routes**
 
 The Banana Map is a web application that was created for the Northeastern University 2023 Hackathon within 24 hours. The theme for the Hackathon was "Tools of the Future" and our focus was climate change and environmental sustainability. The objective of our product is to provide incentives and day-to-day comparison for the user on their transportation choice. Transportation is the greatest contributor (~27%) of greenhouse gases emission in the United States. Hence, the first step of heading towards more sustainable life is to wisely choose our transportation option. For this project, we are comparing 4 transportation modes: driving, busing, walking, and cycling. 
 
@@ -27,7 +27,7 @@ Future development of this project includes cross-platform application, user rew
 
 **Screenshot of web interface**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="600" height="350">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="700" height="400">
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
@@ -69,7 +69,7 @@ This is a group project consisting 4 people for IE6600 Computation and Visualiza
 
 Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and mergging, visualization, forecasting, and deploying the finished work in R Shiny Web Application. The visualisation includes choropleth world maps, lollipop plots, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Time series forecasting to predict 2030 "At Least Basic" variable value is also provided. 
 
-[**Click here to go to the Shinyapps**](https://teamshabushabu.shinyapps.io/shinyapp/)
+[**Click here to go to the Shiny App**](https://teamshabushabu.shinyapps.io/shinyapp/)
 
 **Screenshot of R Shiny web application**
 
@@ -81,7 +81,7 @@ Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
 * * *
 
 
-## [Urban Informatics: Boston Craigslist Housing Analysis in R](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) <a name="Craigslist"></a>
+## [Urban Informatics: Boston's Craigslist Housing Analysis in R](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) <a name="Craigslist"></a>
 
 This is an individual semester-long project for PPUA 5262 Big Data for Cities class using R Studio. The project objective is to process, analyze, visualize, and model Craigslist's Housing data in Massachusets and other supporting administrative datasets (census tracts, point of interest, etc.). The geographical area of focus is the City of Boston, turning the big data into products that might benefit communities. The analysis involves property pricing trends against nearby amenities, ease of commute, demographic variables (age, median income, etc.) to see the trend of equity across Boston’s neighborhoods.
 
