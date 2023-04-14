@@ -1,6 +1,8 @@
-# Academic and Hackathon Projects
+## Academic and Hackathon Projects
 
 **LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
+
+* * *
 
 ## [Hackathon: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
 
