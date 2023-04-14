@@ -41,7 +41,7 @@ This project is an individual semester-long project for IE 7300 Statistical Lear
 
 The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="500" height="250">
 
 * * *
 
@@ -73,7 +73,7 @@ Various R analytical skills are utilized in this project including data cleaning
 
 **Screenshot of R Shiny web application**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WASH_summary1.png" width="600" height="350">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WASH_summary1.png" width="700" height="400">
 
 
 Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
