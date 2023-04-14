@@ -2,9 +2,17 @@
 
 **LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
+**Content:**
+
+* [Hackathon Winner: Banana Map](#hackathon-banana-map-winner-of-northeastern-university-hackathon-2023)
+* [Python: Machine Learning Regression](#machine-learning-air-quality-regression-analysis-with-python-from-scratch)
+* [SQL: Database Design and Management](#database-design-food-delivery-application-database-in-sql)
+* [R and Shiny: Analytics, Visualization, and Web Application](#web-application-data-analytics-and-visualization-in-r-and-rshiny)
+* [R and Wordpress: Analytics and Urban Informatics](#urban-informatics-boston-craigslist-housing-analysis-in-r-ongoing)
+
 * * *
 
-## [Hackathon: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
+## [Hackathon: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) <a name="hackathon"></a>
 
 **Carbon Emission and Energy calculator by various transportation routes**
 
@@ -19,7 +27,7 @@ Future development of this project includes cross-platform application, user rew
 
 **Screenshot of web interface**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="600" height="350">
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
@@ -27,17 +35,17 @@ Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zh
 * * *
 
 
-## [Machine Learning: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300)
+## [Machine Learning: Air Quality Regression Analysis with Python from scratch](https://github.com/jtanumihardja/ML-IE7300) <a name="AirQuality"></a>
 
 This project is an individual semester-long project for IE 7300 Statistical Learning for Engineering class. The project objective is to design, implement, evaluate, and validate machine learning models using Python programming. The dataset is [The Beijing Air Quality Data](https://archive-beta.ics.uci.edu/ml/datasets/beijing+multi+site+air+quality+data) from the UCI Machine Learning Repository. The business problem to be addressed is training the custom regression models and predicting the target variable values (PM2.5). The objective of this project is to perform statistical analysis on this dataset to find a regression equation to predict the fit and and conclude which regression equation is the best fit for each parameter.
 
 The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="600" height="250">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="800" height="400">
 
 * * *
 
-## Database Design: Food Delivery Application Database in SQL  
+## Database Design: Food Delivery Application Database in SQL <a name="FoodDatabase"></a>  
 
 This is a group project consisting 5 people to create a food delivery database using SQL. The purpose of this database is to maintain the data used to support online food ordering and delivery services. The database can be used by the restaurant manager (obtain and track order), delivery person (obtain delivery information), and customer (order and provide ratings). This database serves as a platform to perform contactless business, track orders and perform order analytics. 
 
@@ -45,7 +53,7 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 **Food Database ERD**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="300">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/FoodDatabase_ERD.png" width="600" height="350">
 
 **Visualization from PowerBI**
 
@@ -53,7 +61,7 @@ The database containes 4 schemas and 15 entities. The Entity Relationship Diagra
 
 * * *
 
-## [Web Application: Data Analytics and Visualization in R and RShiny](https://github.com/jtanumihardja/IE6600_final_project)
+## [Web Application: Data Analytics and Visualization in R and RShiny](https://github.com/jtanumihardja/IE6600_final_project) <a name="RShiny"></a>
 
 This project proposes a comprehensive analysis of world household drinking water, sanitation, and hygiene. The findings will inform evidence-based recommendations and prioritization for worldwide household safe drinking water, sanitation, and hygiene services, with the aim of achieving sustainable development goals.
 
@@ -65,7 +73,7 @@ Various R analytical skills are utilized in this project including data cleaning
 
 **Screenshot of R Shiny web application**
 
-<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WASH_summary1.png" width="600" height="330">
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WASH_summary1.png" width="600" height="350">
 
 
 Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
@@ -73,7 +81,7 @@ Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
 * * *
 
 
-## [Urban Informatics: Boston Craigslist Housing Analysis in R (ongoing)](https://github.com/jtanumihardja/BigDataForCities_PPUA5262)
+## [Urban Informatics: Boston Craigslist Housing Analysis in R (ongoing)](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) <a name="Craigslist"></a>
 
 This is an individual semester-long project for PPUA 5262 Big Data for Cities class using R Studio. The project objective is to process, analyze, visualize, and model Craigslist's Housing data in Massachusets and other supporting administrative datasets (census tracts, point of interest, etc.). The geographical area of focus is the City of Boston, turning the big data into products that might benefit communities. The analysis involves property pricing trends against nearby amenities, ease of commute, demographic variables (age, median income, etc.) to see the trend of equity across Boston’s neighborhoods.
 
