@@ -66,6 +66,8 @@ Team members: Chang Xu, Gauri Damle, Jessica Tanumihardja, Shruthi Ananthapadman
 
 ## [Web App: Data Analytics and Visualization in R & RShiny](https://github.com/jtanumihardja/IE6600_final_project) <a name="RShiny"></a>
 
+[**Co-Winner of the Spring 2023 Class Projects**](https://zhenyuanlu.com/courses/ie6600-sea-sp23/)
+
 This project proposes a comprehensive analysis of world household drinking water, sanitation, and hygiene. The findings will inform evidence-based recommendations and prioritization for worldwide household safe drinking water, sanitation, and hygiene services, with the aim of achieving sustainable development goals.
 
 This is a group project consisting 4 people for IE6600 Computation and Visualization in R. All the data preprocessing and visualization are conducted in RStudio and the web application is pushed from RShiny. The chosen dataset is [WASH data](https://washdata.org/data/downloads#WLD) originated from and managed by WHO/UNICEF Joint Monitoring Programme. The datasets contain information on each country’s population, facilities, sewer systems, etc. The values are classified into three areas: national, urban, and rural.
