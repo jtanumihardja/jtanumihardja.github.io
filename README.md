@@ -39,7 +39,7 @@ Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zh
 
 This project is an individual semester-long project for IE 7300 Statistical Learning for Engineering class. The project objective is to design, implement, evaluate, and validate machine learning models using Python programming custom functions (from scratch). The dataset is [The Beijing Air Quality Data](https://archive-beta.ics.uci.edu/ml/datasets/beijing+multi+site+air+quality+data) from the UCI Machine Learning Repository. The business problem to be addressed is training the custom regression models and predicting the target variable values (PM2.5). The objective of this project is to perform statistical analysis on this dataset to find a regression equation to predict the fit and and conclude which regression equation is the best fit for each parameter.
 
-The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest $R^2$ values. If computational power and time are restricted, lasso regression is also comparable regression model. 
+The summary of the performance metrics for each model tested is listed below. The best model is gradient boosting as it has the lowest RSME and highest R-squared values. If computational power and time are restricted, lasso regression is also comparable regression model. 
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/AirQualityRegressionResultSummary.png" width="500" height="250">
 
