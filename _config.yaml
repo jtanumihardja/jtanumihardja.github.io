@@ -1,6 +1,6 @@
 #version: 2.0
 
-#Cayman theme 
+#Cayman theme (green)
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -10,13 +10,16 @@ title: [Jessica Tanumihardja's Portfolio]
 #description: [Jessica Tanumihardja's data analytics projects] #customize below
 description:
   <p align="center">
-  <a href="https://www.linkedin.com/in/jessica-tanumihardja/", style="color:rgb(224,255,255);">LinkedIn</a> | #LightCyan color. font-weight:bold;
-  <a href="https://github.com/jtanumihardja", style="color:rgb(175,238,238);">GitHub</a> #rgb(255,160,122) LightSalmon
+  <a href="https://www.linkedin.com/in/jessica-tanumihardja/">LinkedIn</a> | 
+  <a href="https://github.com/jtanumihardja">GitHub</a> 
   </p>
   <p align="center">
   M.S. Data Analytics in Engineering student at Northeastern University, Seattle
   </p>
 
+# light cyan: , style="color:rgb(224,255,255);"
+#rgb(255,160,122) LightSalmon
+# turqouise: style="color:rgb(175,238,238);
 
 #Minimal theme (Blue and white)
 #remote_theme: pages-themes/minimal@v0.2.0
