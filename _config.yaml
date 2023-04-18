@@ -10,8 +10,8 @@ title: [Jessica Tanumihardja's Portfolio]
 #description: [Jessica Tanumihardja's data analytics projects] #customize below
 description:
   <p align="center">
-  <a style="font-weight:bold" href="https://www.linkedin.com/in/jessica-tanumihardja/" style="color:rgb(224,255,255);">LinkedIn</a> | 
-  <a style="font-weight:bold" href="https://github.com/jtanumihardja" style="color:rgb(224,255,255);">GitHub</a> 
+  <a href="https://www.linkedin.com/in/jessica-tanumihardja/" style="color:rgb(224,255,255); font-weight:bold">LinkedIn</a> | 
+  <a href="https://github.com/jtanumihardja" style="color:rgb(224,255,255);font-weight:bold">GitHub</a> 
   </p>
   <p align="center">
   M.S. Data Analytics in Engineering student at Northeastern University, Seattle
