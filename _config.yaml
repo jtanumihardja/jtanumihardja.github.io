@@ -1,3 +1,5 @@
+version: 2.0
+
 #Cayman theme (green)
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
@@ -33,26 +35,3 @@ description:
 #    - { platform: github,  user_url: "https://github.com/jtanumihardja" }
 #    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jessica-tanumihardja/" }
 
-# Use this code base if we want to use it for something else:
-jobs:
-  build:
-    docker:
-      - image: cimg/base:2023.03
-    steps:
-      - checkout
-      - run: echo "this is the build job"
-  test:
-    docker:
-      - image: cimg/base:2023.03
-    steps:
-      - checkout
-      - run: echo "this is the test job"
-
-# Orchestrate our job run sequence
-workflows:
-  build_and_test:
-    jobs:
-      - build
-      - test:
-          requires:
-            - build
