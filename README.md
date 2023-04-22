@@ -22,7 +22,7 @@ The Banana Map is a web application that was created for the Northeastern Univer
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="700" height="400">
 
-The programming language used are Python and JavaScript. Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
+The programming languages used are Python and JavaScript. Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
