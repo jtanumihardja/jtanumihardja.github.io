@@ -1,7 +1,3 @@
-
-
-**LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
-
 **Project list:**
 
 * [Hackathon Winner: Banana Map](#hackathon)
@@ -91,6 +87,7 @@ The wordpress articles created from the weekly data exploration can be found [he
 * * *
 
 
+**LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
 
 
