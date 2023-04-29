@@ -83,6 +83,11 @@ This is an individual semester-long project for PPUA 5262 Big Data for Cities cl
 
 The wordpress articles created from the weekly data exploration can be found [here](https://sppua5262.wordpress.com/author/jtanumihardja/).
 
+[GitHub repository](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) contains the city exploration and final reports. 
+
+**Visualization sample:** Map of Median Household Income, Craigslist Posting Count, and Median Listing Price/ sq.ft. for the City of Boston (2020-2021 data) per census tract ID.
+
+<img src="https://raw.githubusercontent.com/jtanumihardja/BigDataForCities_PPUA5262/Visualizations/Assignment6_medIncome_nPosting_medSqft_maps_i.png" width="900" height="400">
 
 * * *
 
