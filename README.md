@@ -1,7 +1,3 @@
-
-
-**LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
-
 **Project list:**
 
 * [Hackathon Winner: Banana Map](#hackathon)
@@ -12,7 +8,7 @@
 
 * * *
 
-## [Banana Map: Winner of Northeastern University Hackathon 2023](https://github.com/jwke21/team_banana_hackathon) <a name="hackathon"></a>
+## [Banana Map: Winner of Northeastern University Hackathon 2023](https://github.com/jtanumihardja/team_banana_hackathon2023) <a name="hackathon"></a>
 
 **Carbon Emission and Energy calculator of various transportation routes**
 
@@ -22,11 +18,7 @@ The Banana Map is a web application that was created for the Northeastern Univer
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WebInterface_DriveAndWalk.png" width="700" height="400">
 
-For the back-end, we pre-processed the CO2 emission dataset to get the average car mpg (miles per gallon) and CO2 emission (metric tons/mile) in Python. We also gathered resources for energy and calorie calculations. We converted those energy to equivalent number of banana needed so that users can have a tangible comparison (it is also a great source of fuel for our body!). We also showed how much area needed for a forest to sequestered the emitted CO2 (metric tons/area/day). That way, the user will get both biological and environmental comparisons. 
-
-The front-end was built using JavaScript. Mapbox API (open source) were utilized to show the map and get the distance between two addresses. The features includes trip distance calculator, CO2 emission tracking, kcal energy expenditure tracking, and equivalent banana calorie tracking. The web interface is shown below. 
-
-Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
+The programming languages used are Python and JavaScript. Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
@@ -66,20 +58,19 @@ Team members: Chang Xu, Gauri Damle, Jessica Tanumihardja, Shruthi Ananthapadman
 
 ## [Web App: Data Analytics and Visualization in R & RShiny](https://github.com/jtanumihardja/IE6600_final_project) <a name="RShiny"></a>
 
+[**Click here to go to the Shiny App**](https://teamshabushabu.shinyapps.io/shinyapp/)
+
 [**Co-Winner of the Spring 2023 Class Projects**](https://zhenyuanlu.com/courses/ie6600-sea-sp23/)
 
 This project proposes a comprehensive analysis of world household drinking water, sanitation, and hygiene. The findings will inform evidence-based recommendations and prioritization for worldwide household safe drinking water, sanitation, and hygiene services, with the aim of achieving sustainable development goals.
 
-This is a group project consisting 4 people for IE6600 Computation and Visualization in R. All the data preprocessing and visualization are conducted in RStudio and the web application is pushed from RShiny. The chosen dataset is [WASH data](https://washdata.org/data/downloads#WLD) originated from and managed by WHO/UNICEF Joint Monitoring Programme. The datasets contain information on each country’s population, facilities, sewer systems, etc. The values are classified into three areas: national, urban, and rural.
+This is a group project consisting 4 people for IE6600 Computation and Visualization in R. All the data preprocessing and visualization are conducted in RStudio and the web application is pushed from RShiny. The chosen dataset is [WASH data](https://washdata.org/data/downloads#WLD), originated from and managed by WHO/UNICEF Joint Monitoring Programme. The datasets contain information on each country’s population, facilities, sewer systems, etc. The values are classified into three areas: national, urban, and rural.
 
 Various R analytical skills are utilized in this project including data cleaning, tidying, dealing with missing values, parsing and merging, visualization, forecasting, and deploying the finished work in R Shiny Web Application. The visualisation includes choropleth world maps, lollipop plots, bar charts, line plots, and donut charts. R Shiny interactive widgets includes tab inset, drop-down menu, and checkbox so user can filter desired plot. Time series forecasting to predict 2030 "At Least Basic" variable value is also provided. 
-
-[**Click here to go to the Shiny App**](https://teamshabushabu.shinyapps.io/shinyapp/)
 
 **Screenshot of R Shiny web application**
 
 <img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/WASH_summary1.png" width="700" height="400">
-
 
 Team Shabu Shabu: Tomoki Kyotani, Jessica Tanumihardja, Xinan Wang, Jiayue Han
 
@@ -92,10 +83,16 @@ This is an individual semester-long project for PPUA 5262 Big Data for Cities cl
 
 The wordpress articles created from the weekly data exploration can be found [here](https://sppua5262.wordpress.com/author/jtanumihardja/).
 
+[GitHub repository](https://github.com/jtanumihardja/BigDataForCities_PPUA5262) contains the city exploration and final reports. 
+
+**Visualization sample:** Map of Median Household Income, Craigslist Posting Count, and Median Listing Price/ sq.ft. for the City of Boston (2020-2021 data) per census tract ID.
+
+<img src="https://raw.githubusercontent.com/jtanumihardja/jtanumihardja.github.io/main/images/Assignment6_medIncome_nPosting_medSqft_maps_i.png" width="900" height="400">
 
 * * *
 
 
+**LinkedIn:** [Jessica Tanumihardja](https://www.linkedin.com/in/jessica-tanumihardja/)
 
 
 
